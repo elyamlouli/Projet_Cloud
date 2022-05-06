@@ -1,0 +1,7 @@
+.git
+Dockerfile
+
+web/node_modules
+web/next
+
+api/__pycache__/
